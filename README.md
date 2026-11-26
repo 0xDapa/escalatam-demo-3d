@@ -1,2 +1,5 @@
-# escalatam-demo-3d
-Escalatam 3D demo site — Freight Globe style landing with Three.js globe
+# Escalatam — demo 3D
+
+Sitio de demostración de Escalatam, con un globo interactivo en Three.js (estilo Freight Globe / Viktor Oddy).
+
+Demo: https://0xdapa.github.io/escalatam-demo-3d/
